@@ -1,0 +1,12 @@
+# Customer Segmentation Project
+
+## Project Overview
+This project applies unsupervised machine learning (K-Means Clustering) to segment a customer base into distinct groups based on behavioral attributes (Spending Score) and demographics (Annual Income).
+
+## Strategic Insights Identified
+* **Segment 0 (Budget Shoppers):** Low income, low spending behavior. Ideal for discount alerts and value-driven marketing.
+* **Segment 1 (Average Shoppers):** Moderate income and spending. Responsive to mainstream loyalty programs.
+* **Segment 2 (Premium Shoppers):** High income, high spending power. Primary target for luxury offerings and exclusive VIP rewards.
+
+## Final Visualized Clusters
+![Customer Segments](customer_segments.png)
